@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 env:
-    REGISTRY_URL: javaruntimesregistryvscode.azurecr.io
+  REGISTRY_URL: javaruntimesregistryvscode.azurecr.io
   PROJECT: java-runtimes
   RESOURCE_GROUP: rg-java-runtimes
   QUARKUS_APP: quarkus-app
